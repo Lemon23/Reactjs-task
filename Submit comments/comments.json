@@ -1,0 +1,5 @@
+[
+	{"id":"100101", "author":"Pete Hunt", "text":"This is one comment"}, 
+	{"id":"100102", "author":"Jordan Walke", "text":"This is *another* comment"}, 
+	{"id":"100103", "author":"James Piter", "text":"This is  amazing"}
+]
